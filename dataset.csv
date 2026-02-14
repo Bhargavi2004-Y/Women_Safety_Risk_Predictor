@@ -1,0 +1,9 @@
+location,time,crime_rate,risk
+urban,night,8,high
+urban,day,5,medium
+rural,night,6,medium
+rural,day,2,low
+urban,night,9,high
+urban,day,4,medium
+rural,night,7,medium
+rural,day,1,low
